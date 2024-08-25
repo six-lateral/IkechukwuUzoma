@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="[rf](https://www.linkedin.com/in/ikechukwu-uzoma-28989b219/)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Ikechukwu, an <a href="[rf](https://www.linkedin.com/in/ikechukwu-uzoma-28989b219/)">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
